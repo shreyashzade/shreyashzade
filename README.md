@@ -1,4 +1,3 @@
-![MasterHead]( https://imgs.search.brave.com/lmet2yTqN0iGstvS9AA2B-Ttk_Xw6iDOBCr_TKNs-as/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbWlyby5t/ZWRpdW0uY29tL21h/eC8xNDAwLzAqQ0hz/NDdlbzg3dE1QZF8t/cS5naWY.gif)
 <h1 align="center">Hi 👋, I'm Shreyash Zade</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src= https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif
