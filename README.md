@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Zade</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src= https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif
 >
 
